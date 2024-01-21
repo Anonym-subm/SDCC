@@ -1,3 +1,3 @@
 # SDCC
 
-Codes for submission #4930 "From Uncertainty to Certainty: Learning Safe Deep Covariation Representation for Multiview Subspace Clustering".
+Code for submission #4930 "From Uncertainty to Certainty: Learning Safe Deep Covariation Representation for Multiview Subspace Clustering".
